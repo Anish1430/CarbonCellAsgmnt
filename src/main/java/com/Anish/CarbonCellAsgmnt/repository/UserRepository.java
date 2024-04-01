@@ -1,6 +1,5 @@
 package com.Anish.CarbonCellAsgmnt.repository;
 
-
 import com.Anish.CarbonCellAsgmnt.model.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
