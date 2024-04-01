@@ -17,7 +17,7 @@ public class DataService {
     }
 
     public List<DataEntry> fetchData(String category, int limit) {
-        // Implement logic to fetch data from API or database
+       //Logic to fetch to DataBase
         return null;
     }
 
